@@ -1,0 +1,1 @@
+you must copy your images after that run "create_first_data.py"
